@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SauteedCarrot
+- 👋 Hi, I’m Yann!
 - 👀 I’m an aspiring data analyst
-- 🌱 I’m currently learning R, Python, SQL & Machine Learning
+- 🌱 I’m currently polishing my skills in R, Python, SQL & Machine Learning
 
 
 <!---
